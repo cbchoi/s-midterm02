@@ -33,6 +33,7 @@ int main()
 	else
 	{
 		int status;
+		int var = 30;
 		printf("\nParent Process\n");
 		printf("PID: %d\n", pid);
 		printf("var: %d\n", var);
